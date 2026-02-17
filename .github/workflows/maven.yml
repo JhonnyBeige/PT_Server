@@ -39,7 +39,7 @@ jobs:
       with:
         name: PT_Server
         path: /home/runner/work/PT_Server/PT_Server/target/flashtanki.server-0.0.1-SNAPSHOT.jar
-
+              
 
   deploy:
     runs-on: ubuntu-latest
