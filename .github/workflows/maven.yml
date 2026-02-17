@@ -38,7 +38,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: FlashTanki-java
-        path: /home/runner/work/PT_Server/PT_Server/target/server.jar
+        path: /home/runner/work/PT_Server/PT_Server/target/flashtanki.server-0.0.1-SNAPSHOT.jar
 
 
   deploy:
